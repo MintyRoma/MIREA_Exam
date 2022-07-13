@@ -1,0 +1,15 @@
+D:\VS Projects\mirea\task1\bin\Debug\net6.0\task1.exe
+D:\VS Projects\mirea\task1\bin\Debug\net6.0\task1.deps.json
+D:\VS Projects\mirea\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\VS Projects\mirea\task1\bin\Debug\net6.0\task1.dll
+D:\VS Projects\mirea\task1\bin\Debug\net6.0\task1.pdb
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.dll
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\refint\task1.dll
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.pdb
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+D:\VS Projects\mirea\task1\obj\Debug\net6.0\ref\task1.dll
