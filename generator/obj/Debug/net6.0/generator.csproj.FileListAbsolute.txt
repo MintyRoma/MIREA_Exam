@@ -1,0 +1,15 @@
+D:\VS Projects\mirea\task25\generator\bin\Debug\net6.0\generator.exe
+D:\VS Projects\mirea\task25\generator\bin\Debug\net6.0\generator.deps.json
+D:\VS Projects\mirea\task25\generator\bin\Debug\net6.0\generator.runtimeconfig.json
+D:\VS Projects\mirea\task25\generator\bin\Debug\net6.0\generator.dll
+D:\VS Projects\mirea\task25\generator\bin\Debug\net6.0\generator.pdb
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.csproj.AssemblyReference.cache
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.AssemblyInfoInputs.cache
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.AssemblyInfo.cs
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.csproj.CoreCompileInputs.cache
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.dll
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\refint\generator.dll
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.pdb
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\generator.genruntimeconfig.cache
+D:\VS Projects\mirea\task25\generator\obj\Debug\net6.0\ref\generator.dll
